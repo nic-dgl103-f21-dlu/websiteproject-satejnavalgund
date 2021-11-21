@@ -1,0 +1,28 @@
+.header h1{
+font-family: "Sofia", sans-serif;
+text-align: left;
+font-size: 100px;
+}
+.header img{
+float:left ;
+width: 200px;
+height: 100px;
+}
+
+nav{
+text-align: center;
+}
+
+body{
+    background-color: rgb(235, 83, 83);
+}
+.body h2{
+    text-align: center;
+    font-size: 50px;
+    }
+.body img{
+    width: 400px;
+    height: 400px;
+    padding: 45px;
+}    
+  
