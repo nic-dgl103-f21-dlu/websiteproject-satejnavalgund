@@ -25,4 +25,7 @@ body{
     height: 400px;
     padding: 45px;
 }    
-  
+footer{
+    font-style: italic;
+    font-size: 25px;
+}
