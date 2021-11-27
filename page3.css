@@ -1,0 +1,38 @@
+@media only screen and (min-width: 768px) {
+    nav .menu-label {
+      display: none;
+    }
+  td{
+    text-align: center;
+  }
+  textarea{
+    width: 100%;
+  }
+  h2{
+    font-size: 50px;
+    text-align: center;
+  }
+  .header h1{
+    font-family: "Sofia", sans-serif;
+    text-align: left;
+    font-size: 100px;
+    }
+    .header img{
+    float:left ;
+    width: 200px;
+    height: 100px;
+    }
+    #fname{font-size: 100%;}
+
+    nav{
+        text-align: center;
+        }
+        body{
+            background-color: rgb(235, 83, 83);
+        }
+    }
+    footer{
+        font-style: italic;
+        font-size: 25px;
+    }
+    
