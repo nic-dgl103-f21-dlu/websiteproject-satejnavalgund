@@ -12,7 +12,8 @@
     font-size: 50px;
     text-align: center;
   }
-  .header h1{
+
+.header h1{
     font-family: "Sofia", sans-serif;
     text-align: left;
     font-size: 100px;
@@ -38,3 +39,10 @@
         font-size: 20px;
     }
     
+      table.center{
+          margin-left: auto;
+          margin-right: auto;
+          height: 50%;
+          width: 50%;
+          font-size: 40px;
+      }
